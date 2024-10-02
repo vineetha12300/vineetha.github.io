@@ -1,0 +1,17 @@
+.experience-accord {
+  margin: 50px;
+}
+
+.accord-panel {
+  font-family: "Google Sans Regular";
+}
+
+@media (max-width: 768px) {
+  .experience-accord {
+    margin: 20px;
+  }
+}
+
+.vertical-timeline-width {
+  width: 100%;
+}
