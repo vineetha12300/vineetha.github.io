@@ -3937,7 +3937,7 @@
               x: "0px",
               y: "0px",
               viewBox: "0 0 100 100",
-              "enable-background": "new 0 0 100 100",
+              enableBackground: "new 0 0 100 100",
             },
             r.a.createElement(
               "path",
@@ -7986,4 +7986,4 @@
   ]),
   [[104, 1, 2]],
 ]);
-//# sourceMappingURL=main.0194e13f.chunk.js.map
+//# sourceMappingURL=main.3abb9cdb.chunk.js.map
