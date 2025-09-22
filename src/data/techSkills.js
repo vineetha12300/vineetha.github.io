@@ -1,36 +1,33 @@
-import { skills } from "./experience";
-
 const techSkills = {
-
-  typescript:{
+  typescript: {
     skillName: "TypeScript",
     fontAwesomeClassname: "logos:typescript",
     style: {
       color: "#F7DF1E",
     },
   },
-  bootstrap:{
+  bootstrap: {
     skillName: "Bootstrap",
     fontAwesomeClassname: "mdi:bootstrap",
     style: {
       color: "#F7DF1E",
     },
   },
-  materialUI:{
+  materialUI: {
     skillName: "MaterialUI",
     fontAwesomeClassname: "mdi:material",
     style: {
       color: "#F7DF1E",
     },
   },
-  karma:{
+  karma: {
     skillName: "Karma",
     fontAwesomeClassname: "logos:karma",
     style: {
       color: "#F7DF1E",
     },
   },
-  redux:{
+  redux: {
     skillName: "Redux",
     fontAwesomeClassname: "logos:redux",
     style: {
@@ -210,9 +207,9 @@ const techSkills = {
       color: "#CB3837",
     },
   },
-  git:{
-    skillName:"Git",
-    fontAwesomeClassname:"fa:git-square",
+  git: {
+    skillName: "Git",
+    fontAwesomeClassname: "fa:git-square",
     style: {
       color: "#CB3837",
     },
@@ -237,7 +234,7 @@ const techSkills = {
     style: {
       color: "#CB3837",
     },
-  }
+  },
 };
 
 export { techSkills };

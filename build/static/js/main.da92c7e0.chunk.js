@@ -226,11 +226,6 @@
           title: "Vineetha's Portfolio",
           description:
             "Senior Software Developer with over 5 years of experience in building scalable and user-centric applications using technologies like Angular, React, and Node.js.",
-          og: {
-            title: "vineetha  Portfolio",
-            type: "website",
-            url: "http://vineetha.com/",
-          },
         },
         n = {
           title: "Vineetha ",
@@ -3820,7 +3815,7 @@
         }
       }
       var V = z;
-      function J(e) {
+      function X(e) {
         const t = e.theme;
         return r.a.createElement(
           "div",
@@ -3842,7 +3837,7 @@
         );
       }
       a(132);
-      function X(e) {
+      function J(e) {
         return r.a.createElement(
           "div",
           { className: "footer-div" },
@@ -3917,8 +3912,8 @@
             null,
             r.a.createElement(F, { theme: this.props.theme }),
             r.a.createElement(D, { theme: this.props.theme }),
-            r.a.createElement(J, { theme: this.props.theme }),
             r.a.createElement(X, { theme: this.props.theme }),
+            r.a.createElement(J, { theme: this.props.theme }),
             r.a.createElement(Y, { theme: this.props.theme })
           );
         }
@@ -4660,7 +4655,7 @@
               r.a.createElement(se, { theme: this.props.theme }),
               r.a.createElement(he, { theme: this.props.theme })
             ),
-            r.a.createElement(X, { theme: this.props.theme }),
+            r.a.createElement(J, { theme: this.props.theme }),
             r.a.createElement(Y, { theme: this.props.theme })
           );
         }
@@ -5537,7 +5532,7 @@
                 theme: e,
                 timeline: !1,
               }),
-            r.a.createElement(X, {
+            r.a.createElement(J, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
@@ -5726,7 +5721,7 @@
       }
       var Ve = ze;
       a(297), a(298);
-      class Je extends l.Component {
+      class Xe extends l.Component {
         render() {
           const e = this.props.pullRequest;
           let t, a;
@@ -5899,7 +5894,7 @@
           );
         }
       }
-      var Xe = Je;
+      var Je = Xe;
       class Ye extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5925,7 +5920,7 @@
             r.a.createElement(
               "div",
               { className: "pull-request-body-div" },
-              De.data.map((e) => r.a.createElement(Xe, { pullRequest: e }))
+              De.data.map((e) => r.a.createElement(Je, { pullRequest: e }))
             )
           );
         }
@@ -6108,7 +6103,7 @@
             r.a.createElement(Oe, { theme: this.props.theme }),
             r.a.createElement(_e, { theme: this.props.theme }),
             r.a.createElement(at, { theme: this.props.theme }),
-            r.a.createElement(X, {
+            r.a.createElement(J, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
@@ -6394,7 +6389,6 @@
       a(303), a(304);
       class it extends r.a.Component {
         render() {
-          this.props.theme;
           return r.a.createElement("img", {
             width: 400,
             src: a(71),
@@ -6532,7 +6526,7 @@
                 )
               )
             ),
-            r.a.createElement(X, {
+            r.a.createElement(J, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
@@ -7400,7 +7394,7 @@
               newTab: !0,
               theme: e,
             }),
-            r.a.createElement(X, {
+            r.a.createElement(J, {
               theme: this.props.theme,
               onToggle: this.props.onToggle,
             }),
@@ -7898,7 +7892,7 @@
                 company: "PwC Canada",
                 company_url: "",
                 logo_path: "",
-                start_date: "Nov 2024",
+                start_date: "2024-11",
                 end_date: "",
                 duration: "Nov 2024 - Present",
                 location: "Toronto (Remote)",
@@ -7921,9 +7915,9 @@
                 company: "Wipro India",
                 company_url: "https://www.wipro.com/",
                 logo_path: "",
-                start_date: "July 2021",
-                end_date: "Sep 2024",
-                duration: "July 2021 - Sep 2024",
+                start_date: "2021-07",
+                end_date: "2024-09",
+                duration: "2021-07 - 2024-09",
                 location: "Hyderabad, India",
                 skills: [v, o, r, d, y, s, b, B],
                 descriptions: [
@@ -7943,8 +7937,8 @@
                 company: "Aspire Vision",
                 company_url: "",
                 logo_path: "",
-                start_date: "Jan 2021",
-                end_date: "June 2021",
+                start_date: "2021-01",
+                end_date: "2021-06",
                 duration: "Jan 2021 - June 2021",
                 location: "Hyderabad, India",
                 skills: [r, o, v, A, d, b, B],
@@ -7986,4 +7980,4 @@
   ]),
   [[104, 1, 2]],
 ]);
-//# sourceMappingURL=main.793d09bf.chunk.js.map
+//# sourceMappingURL=main.da92c7e0.chunk.js.map
