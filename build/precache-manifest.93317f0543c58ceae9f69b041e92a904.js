@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    revision: "a3a1e6bdc1f065dfcd15736f4ae2a829",
+    revision: "d7d5dbb091c923c6f9fd7ca09cd66ccb",
     url: "/vineetha.github.io/index.html",
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     url: "/vineetha.github.io/static/css/2.7f973906.chunk.css",
   },
   {
-    revision: "c821dd12c019b711faad",
+    revision: "469f7c4b4c891e5badad",
     url: "/vineetha.github.io/static/css/main.73235f1f.chunk.css",
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     url: "/vineetha.github.io/static/js/2.d27c526e.chunk.js",
   },
   {
-    revision: "c821dd12c019b711faad",
-    url: "/vineetha.github.io/static/js/main.3abb9cdb.chunk.js",
+    revision: "469f7c4b4c891e5badad",
+    url: "/vineetha.github.io/static/js/main.793d09bf.chunk.js",
   },
   {
     revision: "6049c6fd93a9853d0c15",
