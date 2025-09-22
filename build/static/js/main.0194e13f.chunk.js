@@ -1,7 +1,7 @@
 (this["webpackJsonpvineetha-devfolio"] =
   this["webpackJsonpvineetha-devfolio"] || []).push([
   [0],
-  Array(27).concat([
+  Array(28).concat([
     function (e) {
       e.exports = JSON.parse(
         '{"closed":1,"data":[{"id":"PR_kwDOL_LUgM588daQ","title":"Next/develop","url":"https://github.com/vineetha/medimanage-web-ui/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-09-27T16:47:29Z","number":4,"changedFiles":157,"additions":48550,"deletions":1,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/vineetha/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM588dBo","title":"Next/develop","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-09-27T16:46:17Z","number":8,"changedFiles":90,"additions":12220,"deletions":0,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LUgM5xsfWu","title":"Develop/test cases","url":"https://github.com/vineetha/medimanage-web-ui/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-06T15:16:08Z","number":3,"changedFiles":18,"additions":13566,"deletions":8554,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/vineetha/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xsd7s","title":"AuthTest: integrated all unit test for auth module","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-06T15:12:54Z","number":7,"changedFiles":4,"additions":329,"deletions":5,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xlNgB","title":"auth endpoints added","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-05T16:56:15Z","number":6,"changedFiles":7,"additions":78,"deletions":37,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LUgM5xfqIZ","title":"added auth endpoints","url":"https://github.com/vineetha/medimanage-web-ui/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-05T02:41:13Z","number":2,"changedFiles":70,"additions":25433,"deletions":5724,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/vineetha/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xWeaO","title":"auth endpoints added","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-03T21:39:12Z","number":5,"changedFiles":23,"additions":731,"deletions":78,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xWdQp","title":"Develop/auth endpoints","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/4","state":"CLOSED","mergedBy":null,"createdAt":"2024-06-03T21:35:39Z","number":4,"changedFiles":42,"additions":3133,"deletions":567,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xWbsH","title":"Develop/db schema","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-03T21:30:31Z","number":3,"changedFiles":28,"additions":2440,"deletions":522,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LQRM5xWZg5","title":"Develop/db schema","url":"https://github.com/vineetha/medimanage-healthcare-ms/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-06-03T21:23:19Z","number":2,"changedFiles":28,"additions":2440,"deletions":522,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/vineetha/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}},{"id":"PR_kwDOL_LUgM5w8IT2","title":"feat: Boilerplate Added","url":"https://github.com/vineetha/medimanage-web-ui/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/vineetha","login":"vineetha"},"createdAt":"2024-05-29T22:11:07Z","number":1,"changedFiles":25,"additions":13271,"deletions":1,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/vineetha/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"vineetha","url":"https://github.com/vineetha"}}}],"merged":10,"open":0,"totalCount":11}'
@@ -12,56 +12,57 @@
     ,
     ,
     ,
+    ,
     function (e) {
       e.exports = JSON.parse('{"data":[],"open":0,"closed":0,"totalCount":0}');
     },
     function (e, t, a) {
       var l = {
-        "./1204CS-Specialist-Design (Mechanical).pdf": 136,
-        "./2034742.svg": 137,
-        "./address_image.svg": 138,
-        "./animated_logo.svg": 139,
-        "./blogs_image.svg": 140,
-        "./cloud_infrastructure.svg": 141,
-        "./codeInLogo.png": 142,
-        "./conestoga.jpg": 143,
-        "./contactMail.png": 144,
-        "./coursera_logo.png": 145,
-        "./data_science.svg": 146,
-        "./deeplearning_ai_logo.png": 147,
-        "./developerActivity.svg": 148,
-        "./education.svg": 149,
-        "./experience.svg": 150,
-        "./feelingProud.svg": 151,
-        "./freecopy_logo.png": 152,
-        "./freelancer.png": 153,
-        "./fullstack.svg": 154,
-        "./gcp_logo.png": 155,
-        "./github_logo.png": 156,
-        "./googleAssistant.jpg": 157,
-        "./googleAssistant.svg": 158,
-        "./google_logo.png": 159,
-        "./ibm.png": 160,
-        "./jsFramework.svg": 161,
-        "./legato_logo.png": 162,
-        "./linkedin.png": 163,
-        "./logo22.png": 164,
-        "./manOnTable.svg": 165,
-        "./ngrx.png": 166,
-        "./nokia.png": 167,
-        "./programmer.svg": 168,
-        "./projects_image.svg": 169,
-        "./projecttree.jpg": 170,
-        "./pwa.png": 171,
-        "./sandvine.png": 172,
-        "./scrumstart.png": 173,
-        "./talksCardBack.svg": 174,
-        "./talksCardBackAlt.svg": 175,
-        "./thinkbridge.jpg": 176,
-        "./ui_ux_design.svg": 177,
-        "./utu.png": 178,
-        "./uwindsor.png": 179,
-        "./vineetha.jpg": 69,
+        "./1204CS-Specialist-Design (Mechanical).pdf": 138,
+        "./2034742.svg": 139,
+        "./address_image.svg": 140,
+        "./animated_logo.svg": 141,
+        "./blogs_image.svg": 142,
+        "./cloud_infrastructure.svg": 143,
+        "./codeInLogo.png": 144,
+        "./conestoga.jpg": 145,
+        "./contactMail.png": 146,
+        "./coursera_logo.png": 147,
+        "./data_science.svg": 148,
+        "./deeplearning_ai_logo.png": 149,
+        "./developerActivity.svg": 150,
+        "./education.svg": 151,
+        "./experience.svg": 152,
+        "./feelingProud.svg": 153,
+        "./freecopy_logo.png": 154,
+        "./freelancer.png": 155,
+        "./fullstack.svg": 156,
+        "./gcp_logo.png": 157,
+        "./github_logo.png": 158,
+        "./googleAssistant.jpg": 159,
+        "./googleAssistant.svg": 160,
+        "./google_logo.png": 161,
+        "./ibm.png": 162,
+        "./jsFramework.svg": 163,
+        "./legato_logo.png": 164,
+        "./linkedin.png": 165,
+        "./logo22.png": 166,
+        "./manOnTable.svg": 167,
+        "./ngrx.png": 168,
+        "./nokia.png": 169,
+        "./programmer.svg": 170,
+        "./projects_image.svg": 171,
+        "./projecttree.jpg": 172,
+        "./pwa.png": 173,
+        "./sandvine.png": 174,
+        "./scrumstart.png": 175,
+        "./talksCardBack.svg": 176,
+        "./talksCardBackAlt.svg": 177,
+        "./thinkbridge.jpg": 178,
+        "./ui_ux_design.svg": 179,
+        "./utu.png": 180,
+        "./uwindsor.png": 181,
+        "./vineetha.jpg": 71,
       };
       function r(e) {
         var t = n(e);
@@ -79,7 +80,7 @@
       }),
         (r.resolve = n),
         (e.exports = r),
-        (r.id = 34);
+        (r.id = 36);
     },
     ,
     ,
@@ -159,7 +160,7 @@
     ,
     ,
     function (e, t, a) {
-      e.exports = a(338);
+      e.exports = a(340);
     },
     ,
     ,
@@ -632,23 +633,23 @@
       a.r(t);
       var l = a(0),
         r = a.n(l),
-        n = a(10),
+        n = a(11),
         c = a.n(n),
-        i = a(358),
-        s = a(340),
-        o = a(21),
-        m = a(357),
-        d = (a(107), a(108), a(7)),
+        i = a(359),
+        s = a(342),
+        o = a(22),
+        m = a(358),
+        d = (a(109), a(110), a(7)),
         h = a(5),
-        p = (a(109), a(3));
-      const { skills: f, experience: g } = a(339),
-        { certifications: E } = a(121),
+        p = (a(111), a(3));
+      const { skills: f, experience: g } = a(341),
+        { certifications: E } = a(123),
         { socialMediaLinks: A, seo: u, greeting: y, contactPageData: v } = a(
-          122
+          124
         ),
-        { projectsHeader: x, degrees: b, competitiveSites: M } = a(123),
+        { projectsHeader: x, degrees: b, competitiveSites: M } = a(125),
         C = !0;
-      var w = a(90);
+      var w = a(92);
       var k = function () {
         var e, t, a;
         return r.a.createElement(
@@ -798,7 +799,7 @@
         }
       }
       var F = B,
-        R = (a(126), a(127), a(24));
+        R = (a(128), a(129), a(25));
       const U = R.c.span`
   i {
     background-color: ${(e) => e.backgroundColor};
@@ -1294,9 +1295,9 @@
           )
         );
       }
-      a(68), a(128);
-      var L = a(355),
-        I = a(353);
+      a(70), a(130);
+      var L = a(356),
+        I = a(355);
       class Q extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -3840,7 +3841,7 @@
           r.a.createElement(V, { theme: t })
         );
       }
-      a(130);
+      a(132);
       function X(e) {
         return r.a.createElement(
           "div",
@@ -3862,7 +3863,7 @@
           )
         );
       }
-      a(131);
+      a(133);
       function Y(e) {
         let { theme: t } = e;
         window.onscroll = function () {
@@ -3923,7 +3924,7 @@
         }
       }
       var $ = _;
-      a(132), a(133);
+      a(134), a(135);
       class ee extends r.a.Component {
         render() {
           const e = this.props.theme;
@@ -4018,7 +4019,7 @@
         }
       }
       var re = le;
-      a(134), a(135);
+      a(136), a(137);
       class ne extends l.Component {
         render() {
           const e = this.props.degree,
@@ -4038,7 +4039,7 @@
                     maxHeight: "100%",
                     transform: "scale(50%, 50%)",
                   },
-                  src: a(34)("./" + e.logo_path),
+                  src: a(36)("./" + e.logo_path),
                   alt: e.alt_name,
                 })
               )
@@ -4150,7 +4151,7 @@
         }
       }
       var se = ie;
-      a(180), a(181);
+      a(182), a(183);
       class oe extends l.Component {
         render() {
           const e = this.props.certificate,
@@ -4185,7 +4186,7 @@
                         transform: "scale(50%, 50%)",
                       },
                       className: "logo_img",
-                      src: a(34)("./" + e.logo_path),
+                      src: a(36)("./" + e.logo_path),
                       alt: e.alt_name,
                     })
                   ),
@@ -4261,7 +4262,7 @@
         }
       }
       var he = de;
-      a(182);
+      a(184);
       class pe extends r.a.Component {
         render() {
           return r.a.createElement(
@@ -4614,7 +4615,7 @@
           );
         }
       }
-      a(183);
+      a(185);
       class Ee extends l.Component {
         render() {
           const e = this.props.theme;
@@ -4665,7 +4666,7 @@
         }
       }
       var Ae = Ee;
-      a(184);
+      a(186);
       class ue extends l.Component {
         render() {
           const e = this.props.title,
@@ -4688,7 +4689,7 @@
               { href: t, target: "_blank", rel: "noopener noreferrer" },
               r.a.createElement("img", {
                 className: "experience-card-logo",
-                src: a(34)("./" + l),
+                src: a(36)("./" + l),
                 alt: "",
               })
             )
@@ -4796,10 +4797,10 @@
         }
       }
       var xe = ve,
-        be = (a(185), a(359)),
-        Me = a(356),
-        Ce = a(60);
-      a(70), a(191);
+        be = (a(187), a(360)),
+        Me = a(357),
+        Ce = a(62);
+      a(72), a(193);
       class we extends l.Component {
         render() {
           const e = this.props.theme,
@@ -4932,7 +4933,7 @@
         }
       }
       var Ne = Ze;
-      a(192);
+      a(194);
       class Be extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5368,8 +5369,8 @@
           );
         }
       }
-      a(193);
-      var Fe = a(61);
+      a(195);
+      var Fe = a(63);
       class Re extends l.Component {
         render() {
           const e = this.props.theme,
@@ -5421,7 +5422,7 @@
                             date: "2011 - present",
                             icon: r.a.createElement("img", {
                               className: "experience-card-logo",
-                              src: a(34)("./" + t.logo_path),
+                              src: a(36)("./" + t.logo_path),
                               alt: "",
                             }),
                             iconStyle: {
@@ -5545,8 +5546,8 @@
         }
       }
       var Se = je,
-        He = a(42),
-        De = (a(290), a(27));
+        He = a(45),
+        De = (a(292), a(28));
       class Le extends l.Component {
         render() {
           const e = {
@@ -5585,7 +5586,7 @@
         }
       }
       var Ie = Le,
-        Qe = (a(291), a(33));
+        Qe = (a(293), a(35));
       class Te extends l.Component {
         render() {
           const e = {
@@ -5624,7 +5625,7 @@
         }
       }
       var qe = Te;
-      a(292);
+      a(294);
       class Ge extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5654,7 +5655,7 @@
         }
       }
       var Oe = Ge;
-      a(293), a(294);
+      a(295), a(296);
       class Pe extends l.Component {
         render() {
           return r.a.createElement(
@@ -5696,7 +5697,7 @@
         }
       }
       var Ke = Pe,
-        We = a(98);
+        We = a(100);
       class ze extends l.Component {
         render() {
           const e = this.props.theme;
@@ -5724,7 +5725,7 @@
         }
       }
       var Ve = ze;
-      a(295), a(296);
+      a(297), a(298);
       class Je extends l.Component {
         render() {
           const e = this.props.pullRequest;
@@ -5930,7 +5931,7 @@
         }
       }
       var _e = Ye;
-      a(297), a(298);
+      a(299), a(300);
       class $e extends l.Component {
         render() {
           const e = this.props.issue;
@@ -6096,7 +6097,7 @@
         }
       }
       var at = tt;
-      a(299);
+      a(301);
       class lt extends l.Component {
         render() {
           return r.a.createElement(
@@ -6116,7 +6117,7 @@
         }
       }
       var rt = lt;
-      a(300);
+      a(302);
       function nt(e) {
         let { text: t, className: a, href: l, newTab: n, theme: c } = e;
         return r.a.createElement(
@@ -6390,13 +6391,13 @@
           );
         }
       }
-      a(301), a(302);
+      a(303), a(304);
       class it extends r.a.Component {
         render() {
           this.props.theme;
           return r.a.createElement("img", {
             width: 400,
-            src: a(69),
+            src: a(71),
             alt: "Contact",
           });
         }
@@ -6540,7 +6541,7 @@
         }
       }
       var pt = ht;
-      a(303);
+      a(305);
       class ft extends l.Component {
         render() {
           return r.a.createElement(
@@ -6584,7 +6585,7 @@
         }
       }
       var gt = ft;
-      a(304);
+      a(306);
       function Et(e) {
         let { repo: t, theme: a } = e;
         return r.a.createElement(
@@ -6655,8 +6656,8 @@
           )
         );
       }
-      var At = a(99);
-      a(305);
+      var At = a(101);
+      a(307);
       class ut extends l.Component {
         render() {
           const e = this.props.theme;
@@ -7624,7 +7625,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(306);
+      a(308);
       const wt = new m.a();
       c.a.render(
         r.a.createElement(
@@ -7648,7 +7649,7 @@
         a.d(t, "experience", function () {
           return R;
         });
-      const l = a(66),
+      const l = a(68),
         {
           angular: r,
           gcp: n,
@@ -7983,6 +7984,6 @@
       );
     },
   ]),
-  [[102, 1, 2]],
+  [[104, 1, 2]],
 ]);
-//# sourceMappingURL=main.05ebb78e.chunk.js.map
+//# sourceMappingURL=main.0194e13f.chunk.js.map
