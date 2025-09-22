@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/vineetha.github.io/precache-manifest.93317f0543c58ceae9f69b041e92a904.js"
+  "/vineetha.github.io/precache-manifest.ba2091377f5ffb37230a5150a6c3d03e.js"
 );
 
 self.addEventListener("message", (event) => {

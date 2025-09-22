@@ -37,7 +37,8 @@
     "styled-components": "^5.1.1",
     "styletron-engine-atomic": "^1.4.6",
     "styletron-react": "^5.2.7",
-    "vertical-timeline-component-for-react": "^1.0.7"
+    "vertical-timeline-component-for-react": "^1.0.7",
+    "vineetha-devfolio": "file:"
   },
   "devDependencies": {
     "@iconify/iconify": "^3.1.0",
