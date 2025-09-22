@@ -2,7 +2,7 @@
   "private": true,
   "name": "vineetha-devfolio",
   "version": "0.1.0",
-  "homepage": "https://vineetha.github.io",
+  "homepage": "https://vineetha12300.github.io/vineetha.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
