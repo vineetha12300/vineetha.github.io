@@ -26,13 +26,13 @@ class SkillSection extends Component {
     const theme = this.props.theme;
     return (
       <div>
-        {skills.data.map((skill,index) => {
+        {skills.data.map((skill, index) => {
           return (
             <div className="skills-main-div" key={index}>
               <Fade left duration={2000}>
                 <div className="skills-image-div">
                   {/* <img
-                    alt="Parita is Analysing Data"
+                    alt="vineetha is Analysing Data"
                     src={require(`../../assests/images/${skill.imagePath}`)}
                   ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />

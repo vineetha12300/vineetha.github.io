@@ -1,2 +1,3 @@
-# parita-akoliya.github.io
+# vineetha.github.io
+
 Portfolio Website

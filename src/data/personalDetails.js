@@ -1,9 +1,9 @@
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "contactParita.jpg",
+    profile_image_path: "contactvineetha.jpg",
     description:
-      "I am a Senior Software Developer with over 6 years of experience specializing in building scalable and user-centric applications. I'm open to opportunities in Frontend, Backend, and Full-Stack Development. Feel free to reach out to discuss new opportunities.",
+      "I am a Senior Software Developer with over 5 years of experience specializing in building scalable and user-centric applications. I'm open to opportunities in Frontend, Backend, and Full-Stack Development. Feel free to reach out to discuss new opportunities.",
   },
   addressSection: {
     title: "Address",
@@ -13,55 +13,55 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+1 548-398-3001",
+    subtitle: "+1 519-721-9561",
     href: "tel:+15483983001",
   },
 };
 
 const seo = {
-  title: "Parita's Portfolio",
+  title: "Vineetha's Portfolio",
   description:
-    "Senior Software Developer with over 6 years of experience in building scalable and user-centric applications using technologies like Angular, React, and Node.js.",
+    "Senior Software Developer with over 5 years of experience in building scalable and user-centric applications using technologies like Angular, React, and Node.js.",
   og: {
-    title: "Parita Akoliya Portfolio",
+    title: "vineetha  Portfolio",
     type: "website",
-    url: "http://ParitaAkoliya.com/",
+    url: "http://vineetha.com/",
   },
 };
 
 // Home Page
 const greeting = {
-  title: "Parita Akoliya",
-  logo_name: "Parita Akoliya",
+  title: "Vineetha ",
+  logo_name: "Vineetha ",
   nickname: "",
   subTitle:
-  "A passionate Senior Software Developer thriving to bridge the gap between humans and technology through scalable and high-performance applications.",
+    "A passionate Full Stack Software Developer thriving to bridge the gap between humans and technology through scalable and high-performance applications.",
   resumeLink:
-    "https://drive.google.com/file/d/1F-bPxsaz5zqtrx0w-flxW-hYiPsNL8EO/view?usp=drive_link",
-  portfolio_repository: "https://github.com/ParitaAkoliya/personalPortfolio",
-  mailTo: "mailto:akoliya.parita@gmail.com",
+    "https://drive.google.com/file/d/1Ybhf-_Wii5aB70jTo4HjTqt3sZ-DKfTL/view?usp=sharing",
+  portfolio_repository: "https://github.com/vineetha/personalPortfolio",
+  mailTo: "mailto:.vineetha12300@gmail.com",
 };
 
 const socialMediaLinks = [
   {
     name: "GitHub",
-    link: "https://github.com/parita-akoliya",
+    link: "https://github.com/vineetha12300",
     fontAwesomeIcon: "fa-github",
     backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
-    link: "https://linkedin.com/in/parita-akoliya",
+    link: "https://www.linkedin.com/in/vineetha12300/",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
   {
     name: "Email",
-    link: "mailto:akoliya.parita@gmail.com",
+    link: "mailto:.vineetha12300@gmail.com",
     brand: false,
     fontAwesomeIcon: "fa-solid fa-envelope",
     backgroundColor: "#D14836",
-  }
+  },
 ];
 
 export { contactPageData, greeting, seo, socialMediaLinks };

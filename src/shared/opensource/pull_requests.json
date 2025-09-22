@@ -1,1 +1,279 @@
-{"data":[{"id":"PR_kwDOL_LUgM588daQ","title":"Next/develop","url":"https://github.com/parita-akoliya/medimanage-web-ui/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-09-27T16:47:29Z","number":4,"changedFiles":157,"additions":48550,"deletions":1,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/parita-akoliya/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM588dBo","title":"Next/develop","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-09-27T16:46:17Z","number":8,"changedFiles":90,"additions":12220,"deletions":0,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LUgM5xsfWu","title":"Develop/test cases","url":"https://github.com/parita-akoliya/medimanage-web-ui/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-06T15:16:08Z","number":3,"changedFiles":18,"additions":13566,"deletions":8554,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/parita-akoliya/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xsd7s","title":"AuthTest: integrated all unit test for auth module","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-06T15:12:54Z","number":7,"changedFiles":4,"additions":329,"deletions":5,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xlNgB","title":"auth endpoints added","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-05T16:56:15Z","number":6,"changedFiles":7,"additions":78,"deletions":37,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LUgM5xfqIZ","title":"added auth endpoints","url":"https://github.com/parita-akoliya/medimanage-web-ui/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-05T02:41:13Z","number":2,"changedFiles":70,"additions":25433,"deletions":5724,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/parita-akoliya/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xWeaO","title":"auth endpoints added","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-03T21:39:12Z","number":5,"changedFiles":23,"additions":731,"deletions":78,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xWdQp","title":"Develop/auth endpoints","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/4","state":"CLOSED","mergedBy":null,"createdAt":"2024-06-03T21:35:39Z","number":4,"changedFiles":42,"additions":3133,"deletions":567,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xWbsH","title":"Develop/db schema","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-03T21:30:31Z","number":3,"changedFiles":28,"additions":2440,"deletions":522,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LQRM5xWZg5","title":"Develop/db schema","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-06-03T21:23:19Z","number":2,"changedFiles":28,"additions":2440,"deletions":522,"baseRepository":{"name":"medimanage-healthcare-ms","url":"https://github.com/parita-akoliya/medimanage-healthcare-ms","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}},{"id":"PR_kwDOL_LUgM5w8IT2","title":"feat: Boilerplate Added","url":"https://github.com/parita-akoliya/medimanage-web-ui/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","url":"https://github.com/parita-akoliya","login":"parita-akoliya"},"createdAt":"2024-05-29T22:11:07Z","number":1,"changedFiles":25,"additions":13271,"deletions":1,"baseRepository":{"name":"medimanage-web-ui","url":"https://github.com/parita-akoliya/medimanage-web-ui","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/157851297?v=4","login":"parita-akoliya","url":"https://github.com/parita-akoliya"}}}],"open":0,"closed":1,"merged":10,"totalCount":11}
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOL_LUgM588daQ",
+      "title": "Next/develop",
+      "url": "https://github.com/vineetha/medimanage-web-ui/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-09-27T16:47:29Z",
+      "number": 4,
+      "changedFiles": 157,
+      "additions": 48550,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "medimanage-web-ui",
+        "url": "https://github.com/vineetha/medimanage-web-ui",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM588dBo",
+      "title": "Next/develop",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-09-27T16:46:17Z",
+      "number": 8,
+      "changedFiles": 90,
+      "additions": 12220,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LUgM5xsfWu",
+      "title": "Develop/test cases",
+      "url": "https://github.com/vineetha/medimanage-web-ui/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-06T15:16:08Z",
+      "number": 3,
+      "changedFiles": 18,
+      "additions": 13566,
+      "deletions": 8554,
+      "baseRepository": {
+        "name": "medimanage-web-ui",
+        "url": "https://github.com/vineetha/medimanage-web-ui",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xsd7s",
+      "title": "AuthTest: integrated all unit test for auth module",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-06T15:12:54Z",
+      "number": 7,
+      "changedFiles": 4,
+      "additions": 329,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xlNgB",
+      "title": "auth endpoints added",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-05T16:56:15Z",
+      "number": 6,
+      "changedFiles": 7,
+      "additions": 78,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LUgM5xfqIZ",
+      "title": "added auth endpoints",
+      "url": "https://github.com/vineetha/medimanage-web-ui/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-05T02:41:13Z",
+      "number": 2,
+      "changedFiles": 70,
+      "additions": 25433,
+      "deletions": 5724,
+      "baseRepository": {
+        "name": "medimanage-web-ui",
+        "url": "https://github.com/vineetha/medimanage-web-ui",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xWeaO",
+      "title": "auth endpoints added",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-03T21:39:12Z",
+      "number": 5,
+      "changedFiles": 23,
+      "additions": 731,
+      "deletions": 78,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xWdQp",
+      "title": "Develop/auth endpoints",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/4",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2024-06-03T21:35:39Z",
+      "number": 4,
+      "changedFiles": 42,
+      "additions": 3133,
+      "deletions": 567,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xWbsH",
+      "title": "Develop/db schema",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-03T21:30:31Z",
+      "number": 3,
+      "changedFiles": 28,
+      "additions": 2440,
+      "deletions": 522,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LQRM5xWZg5",
+      "title": "Develop/db schema",
+      "url": "https://github.com/vineetha/medimanage-healthcare-ms/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-06-03T21:23:19Z",
+      "number": 2,
+      "changedFiles": 28,
+      "additions": 2440,
+      "deletions": 522,
+      "baseRepository": {
+        "name": "medimanage-healthcare-ms",
+        "url": "https://github.com/vineetha/medimanage-healthcare-ms",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOL_LUgM5w8IT2",
+      "title": "feat: Boilerplate Added",
+      "url": "https://github.com/vineetha/medimanage-web-ui/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+        "url": "https://github.com/vineetha",
+        "login": "vineetha"
+      },
+      "createdAt": "2024-05-29T22:11:07Z",
+      "number": 1,
+      "changedFiles": 25,
+      "additions": 13271,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "medimanage-web-ui",
+        "url": "https://github.com/vineetha/medimanage-web-ui",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/157851297?v=4",
+          "login": "vineetha",
+          "url": "https://github.com/vineetha"
+        }
+      }
+    }
+  ],
+  "merged": 10,
+  "open": 0,
+  "totalCount": 11
+}

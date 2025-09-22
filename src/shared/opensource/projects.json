@@ -10,11 +10,17 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "HTML", "iconifyClass": "logos-html-5" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/948242f83826e84ee295070bca2fcfc8fded533bffa9f08e0b2a226a00914d04/parita-akoliya/medimanage-healthcare-ms",
-      "projectsUrl": "https://github.com/parita-akoliya/medimanage-healthcare-ms/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/948242f83826e84ee295070bca2fcfc8fded533bffa9f08e0b2a226a00914d04/vineetha/medimanage-healthcare-ms",
+      "projectsUrl": "https://github.com/vineetha/medimanage-healthcare-ms/projects"
     },
     {
       "id": "R_kgDOL_LUgA",
@@ -26,15 +32,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
       ],
       "openGraphImageUrl": "https://avatars.githubusercontent.com/u/157851297?s=400&v=4",
-      "projectsUrl": "https://github.com/parita-akoliya/medimanage-web-ui/projects"
+      "projectsUrl": "https://github.com/vineetha/medimanage-web-ui/projects"
     },
     {
       "id": "R_kgDOM4JPMg",
-      "name": "parita-akoliya",
+      "name": "vineetha",
       "createdAt": "2024-09-27T16:30:55Z",
       "isPrivate": false,
       "isFork": false,
@@ -42,8 +54,8 @@
       "description": "Config files for my GitHub profile.",
       "descriptionHTML": "<div>Config files for my GitHub profile.</div>",
       "languages": [],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/9f43aeb94eee539467ebd94a22de7750f44317d611ed7dc71247d2071a0e4fb4/parita-akoliya/parita-akoliya",
-      "projectsUrl": "https://github.com/parita-akoliya/parita-akoliya/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/9f43aeb94eee539467ebd94a22de7750f44317d611ed7dc71247d2071a0e4fb4/vineetha/vineetha",
+      "projectsUrl": "https://github.com/vineetha/vineetha/projects"
     },
     {
       "id": "R_kgDOM4JYVQ",
@@ -55,10 +67,13 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/c7a88a074df77bb9bd970f92da4143b70e841b7602a88675b8c3320c9fa187e6/parita-akoliya/cricket-analysis-ms",
-      "projectsUrl": "https://github.com/parita-akoliya/cricket-analysis-ms/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/c7a88a074df77bb9bd970f92da4143b70e841b7602a88675b8c3320c9fa187e6/vineetha/cricket-analysis-ms",
+      "projectsUrl": "https://github.com/vineetha/cricket-analysis-ms/projects"
     },
     {
       "id": "R_kgDOM4JZQA",
@@ -70,10 +85,13 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/953e973022d44ae2753a47cc0baac42d7ec3f331273682e0aeadc9fdc50139fb/parita-akoliya/cricket-analysis-service",
-      "projectsUrl": "https://github.com/parita-akoliya/cricket-analysis-service/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/953e973022d44ae2753a47cc0baac42d7ec3f331273682e0aeadc9fdc50139fb/vineetha/cricket-analysis-service",
+      "projectsUrl": "https://github.com/vineetha/cricket-analysis-service/projects"
     },
     {
       "id": "R_kgDOM4JZzA",
@@ -85,12 +103,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/53672fec6a1e6eae22195d95027f3f2c95af8e1cd4ec316ee721b26830a2de48/parita-akoliya/cricket-analysis-web-ui",
-      "projectsUrl": "https://github.com/parita-akoliya/cricket-analysis-web-ui/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/53672fec6a1e6eae22195d95027f3f2c95af8e1cd4ec316ee721b26830a2de48/vineetha/cricket-analysis-web-ui",
+      "projectsUrl": "https://github.com/vineetha/cricket-analysis-web-ui/projects"
     },
     {
       "id": "R_kgDOM4Jacw",
@@ -102,10 +129,13 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/05d4af77cb1ee5ed958606babf1817866700039b43db52f65e61da68d3fce159/parita-akoliya/diet-ms",
-      "projectsUrl": "https://github.com/parita-akoliya/diet-ms/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/05d4af77cb1ee5ed958606babf1817866700039b43db52f65e61da68d3fce159/vineetha/diet-ms",
+      "projectsUrl": "https://github.com/vineetha/diet-ms/projects"
     },
     {
       "id": "R_kgDOM4Jazg",
@@ -117,12 +147,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" },
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/0e5eaae82659e12d1611d97d9d99b5dd8ccd4d2499cc4b8dbb8d230770d7764e/parita-akoliya/gymlife",
-      "projectsUrl": "https://github.com/parita-akoliya/gymlife/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/0e5eaae82659e12d1611d97d9d99b5dd8ccd4d2499cc4b8dbb8d230770d7764e/vineetha/gymlife",
+      "projectsUrl": "https://github.com/vineetha/gymlife/projects"
     },
     {
       "id": "R_kgDOM4Jdrw",
@@ -134,10 +173,13 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/76dbb825143b44a5e4008b025c9a8e73ca42d6839f347d238b0a1f71565c7552/parita-akoliya/image-file-upload-nodejs",
-      "projectsUrl": "https://github.com/parita-akoliya/image-file-upload-nodejs/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/76dbb825143b44a5e4008b025c9a8e73ca42d6839f347d238b0a1f71565c7552/vineetha/image-file-upload-nodejs",
+      "projectsUrl": "https://github.com/vineetha/image-file-upload-nodejs/projects"
     },
     {
       "id": "R_kgDOM4JevA",
@@ -149,12 +191,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/58511f587a8f32ef8e941432cc08594bd2a91c000db9922ae71cd00d047b0588/parita-akoliya/node-angular6",
-      "projectsUrl": "https://github.com/parita-akoliya/node-angular6/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/58511f587a8f32ef8e941432cc08594bd2a91c000db9922ae71cd00d047b0588/vineetha/node-angular6",
+      "projectsUrl": "https://github.com/vineetha/node-angular6/projects"
     },
     {
       "id": "R_kgDOM4JfPg",
@@ -166,10 +217,13 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/e4582883958258e3daaa23e96b008ade1dd1edcbf7e8a64f9fc5b01b98d0a8ee/parita-akoliya/pricing-problem-canada",
-      "projectsUrl": "https://github.com/parita-akoliya/pricing-problem-canada/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/e4582883958258e3daaa23e96b008ade1dd1edcbf7e8a64f9fc5b01b98d0a8ee/vineetha/pricing-problem-canada",
+      "projectsUrl": "https://github.com/vineetha/pricing-problem-canada/projects"
     },
     {
       "id": "R_kgDOM4Jf5w",
@@ -181,11 +235,17 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "HTML", "iconifyClass": "logos-html-5" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/018445b7bdb3fb207204fa351606a87c0cc862b7db999d4518a89139500f6e54/parita-akoliya/product-inventory-dashboard",
-      "projectsUrl": "https://github.com/parita-akoliya/product-inventory-dashboard/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/018445b7bdb3fb207204fa351606a87c0cc862b7db999d4518a89139500f6e54/vineetha/product-inventory-dashboard",
+      "projectsUrl": "https://github.com/vineetha/product-inventory-dashboard/projects"
     },
     {
       "id": "R_kgDOM4Jg5A",
@@ -197,12 +257,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/2d64a3454d87297e92233c2f857bace7ca56aace6b1ecd85eeddf20740dae317/parita-akoliya/ionic-nodejs-frontend",
-      "projectsUrl": "https://github.com/parita-akoliya/ionic-nodejs-frontend/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/2d64a3454d87297e92233c2f857bace7ca56aace6b1ecd85eeddf20740dae317/vineetha/ionic-nodejs-frontend",
+      "projectsUrl": "https://github.com/vineetha/ionic-nodejs-frontend/projects"
     },
     {
       "id": "R_kgDOM4JhjA",
@@ -214,12 +283,21 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "HTML", "iconifyClass": "logos-html-5" },
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "CSS", "iconifyClass": "logos-css-3" }
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/accc2b3b39e66055b4cf5fb33bd100c7b48a093fd5648eca939b3c8ff44e4065/parita-akoliya/react-dev-exercise",
-      "projectsUrl": "https://github.com/parita-akoliya/react-dev-exercise/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/accc2b3b39e66055b4cf5fb33bd100c7b48a093fd5648eca939b3c8ff44e4065/vineetha/react-dev-exercise",
+      "projectsUrl": "https://github.com/vineetha/react-dev-exercise/projects"
     },
     {
       "id": "R_kgDOM4JiAw",
@@ -231,14 +309,17 @@
       "description": null,
       "descriptionHTML": "<div></div>",
       "languages": [
-        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
       ],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/6aa2807cf5695e1cac159cb3c99021da271884c02548ed10d69a88cbe111115b/parita-akoliya/valarus-ms",
-      "projectsUrl": "https://github.com/parita-akoliya/valarus-ms/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/6aa2807cf5695e1cac159cb3c99021da271884c02548ed10d69a88cbe111115b/vineetha/valarus-ms",
+      "projectsUrl": "https://github.com/vineetha/valarus-ms/projects"
     },
     {
       "id": "R_kgDOM6Lfiw",
-      "name": "parita-akoliya.github.io",
+      "name": "vineetha.github.io",
       "createdAt": "2024-10-02T02:46:54Z",
       "isPrivate": false,
       "isFork": false,
@@ -246,8 +327,8 @@
       "description": "Portfolio Website",
       "descriptionHTML": "<div>Portfolio Website</div>",
       "languages": [],
-      "openGraphImageUrl": "https://opengraph.githubassets.com/86c4aaa6a01e95f3ead8919a2eac131935d56c0c1a046183f16aeb7874dae902/parita-akoliya/parita-akoliya.github.io",
-      "projectsUrl": "https://github.com/parita-akoliya/parita-akoliya.github.io/projects"
+      "openGraphImageUrl": "https://opengraph.githubassets.com/86c4aaa6a01e95f3ead8919a2eac131935d56c0c1a046183f16aeb7874dae902/vineetha/vineetha.github.io",
+      "projectsUrl": "https://github.com/vineetha/vineetha.github.io/projects"
     }
   ]
 }

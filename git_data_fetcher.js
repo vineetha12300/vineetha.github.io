@@ -1,6 +1,6 @@
 const openSource = {
   githubConvertedToken: "",
-  githubUserName: "parita-akoliya",
+  githubUserName: "vineetha12300",
 };
 
 const fetch = require("node-fetch");
@@ -99,7 +99,7 @@ const query_org = {
 const query_pinned_projects = {
   query: `
 	query {
-    user(login: "parita-akoliya") {
+    user(login: "vineetha12300") {
       id
       repositories(first: 50) {
         edges {

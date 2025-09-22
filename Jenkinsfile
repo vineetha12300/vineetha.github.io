@@ -22,8 +22,8 @@ pipeline {
         stage("Deploy") {
             steps {
                 echo 'Deploying to Server'
-                sh "sudo rm -rf /var/www/ParitaAkoliya"
-                sh "sudo cp -r ${WORKSPACE}/build/ /var/www/ParitaAkoliya/"
+                sh "sudo rm -rf /var/www/vineetha12300"
+                sh "sudo cp -r ${WORKSPACE}/build/ /var/www/vineetha12300/"
             }
         }
     }
