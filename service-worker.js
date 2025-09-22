@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vineetha.github.io/precache-manifest.171a41ad3cff38c8ff20684e2e68ea2e.js"
+  "/vineetha.github.io/precache-manifest.2f8780960222c59cb420d45fea84bf29.js"
 );
 
 self.addEventListener('message', (event) => {
