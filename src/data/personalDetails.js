@@ -22,6 +22,11 @@ const seo = {
   title: "Vineetha's Portfolio",
   description:
     "Senior Software Developer with over 5 years of experience in building scalable and user-centric applications using technologies like Angular, React, and Node.js.",
+  og: {
+    title: "vineetha  Portfolio",
+    type: "website",
+    url: "http://vineetha.com/",
+  },
 };
 
 // Home Page

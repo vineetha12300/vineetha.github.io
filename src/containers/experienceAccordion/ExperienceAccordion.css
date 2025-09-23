@@ -4,6 +4,7 @@
 
 .accord-panel {
   font-family: "Google Sans Regular";
+  background-color: lightgray;
 }
 
 @media (max-width: 768px) {
